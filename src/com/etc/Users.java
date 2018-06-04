@@ -6,6 +6,7 @@ public class Users {
 	private int userId;
 	private String userName;
 	private String userPwd;
+	private String userSex;
 	public int getUserId() {
 		return userId;
 	}
